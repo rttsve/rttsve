@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @rttsve
-- 👀 I’m interested in dart/flutter crossp latform app development
+- 👀 I’m interested in dart/flutter cross platform app development
 - 🌱 I’m currently learning dart/flutter/json
 - 💞️ I’m looking to collaborate on development
 - 📫 How to reach me https://www.linkedin.com/in/robert-tsvetanov-352761217/
